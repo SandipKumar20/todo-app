@@ -1,0 +1,5 @@
+code
+play
+walk
+love
+buy
