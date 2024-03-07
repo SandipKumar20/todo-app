@@ -1,6 +1,8 @@
 code
 play
-walk
 love
 buy
 sleep
+run
+gaming
+walk
