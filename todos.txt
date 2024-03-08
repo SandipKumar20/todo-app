@@ -3,6 +3,5 @@ play
 love
 buy
 sleep
-run
-gaming
 walk
+drive
